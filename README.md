@@ -70,7 +70,7 @@ Pick these roles in the first 60 seconds (they're loose — swap any time):
 |------|--------------|
 | 🚗 **Driver** | Has hands on the keyboard / clicks through the tool |
 | 💭 **Idea-keeper** | Captures the problem statement + decisions in one short doc |
-| 🔭 **Tool-scout** | Knows (or googles) which Microsoft tool fits — pulls in colleagues if needed |
+| 🔭 **Tool-scout** | Knows (or searches) which Microsoft tool fits — pulls in colleagues if needed |
 | 🎙️ **Storyteller** | Owns the 2-minute showcase at the end |
 
 > 💡 No PMs, no engineers, no architects today — only squads.
