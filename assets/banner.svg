@@ -45,15 +45,7 @@
 
   <!-- Text -->
   <g font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" fill="#ffffff">
-    <text x="60" y="140" font-size="64" font-weight="700" letter-spacing="0.5">SfMC Agentic Challenge</text>
-    <text x="62" y="188" font-size="26" font-weight="400" fill-opacity="0.92">Brainstorm. Build. Share.</text>
-    <g transform="translate(62 220)" font-size="18" fill-opacity="0.95">
-      <rect x="0" y="0" width="200" height="36" rx="18" fill="#ffffff" fill-opacity="0.15"/>
-      <text x="100" y="23" text-anchor="middle">15 min brainstorm</text>
-      <rect x="216" y="0" width="170" height="36" rx="18" fill="#ffffff" fill-opacity="0.15"/>
-      <text x="301" y="23" text-anchor="middle">60 min build</text>
-      <rect x="402" y="0" width="180" height="36" rx="18" fill="#ffffff" fill-opacity="0.15"/>
-      <text x="492" y="23" text-anchor="middle">share &amp; learn</text>
-    </g>
+    <text x="60" y="150" font-size="64" font-weight="700" letter-spacing="0.5">SfMC Agentic Challenge</text>
+    <text x="62" y="200" font-size="26" font-weight="400" fill-opacity="0.92">Brainstorm. Build. Share.</text>
   </g>
 </svg>
