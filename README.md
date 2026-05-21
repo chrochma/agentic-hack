@@ -156,15 +156,15 @@ You don't need to know all of these. Pick **one or two** and go deep. Pull in a 
 
 | | Tool | Good for |
 |---|------|----------|
-| <img src="https://img.icons8.com/color/32/microsoft-copilot.png" width="28"/> | **Microsoft 365 Copilot** | Inbox, Word, Excel, Teams — zero-code starting point |
-| <img src="https://img.icons8.com/color/32/microsoft-copilot.png" width="28"/> | **Copilot Studio** | Build your own copilot/agent with topics, actions, knowledge |
-| <img src="https://img.icons8.com/color/32/azure-1.png" width="28"/> | **Azure AI Foundry** | Models, prompt flows, evaluations, deploy as endpoint |
+| 🤖 | **Microsoft 365 Copilot** | Inbox, Word, Excel, Teams — zero-code starting point |
+| 🎛️ | **Copilot Studio** | Build your own copilot/agent with topics, actions, knowledge |
+| 🧠 | **Azure AI Foundry** | Models, prompt flows, evaluations, deploy as endpoint |
 | ⚡ | **Frontier functions** | Custom AI-callable functions — wire models to real systems |
-| <img src="https://img.icons8.com/fluency/32/power-automate.png" width="28"/> | **Power Automate** | Triggers + connectors (Outlook, Teams, SharePoint, Graph) |
-| <img src="https://img.icons8.com/fluency/32/azure-logic-apps.png" width="28"/> | **Azure Logic Apps** | Power Automate's bigger sibling for production-ish flows |
+| 🔁 | **Power Automate** | Triggers + connectors (Outlook, Teams, SharePoint, Graph) |
+| 🧩 | **Azure Logic Apps** | Power Automate's bigger sibling for production-ish flows |
 | 🦾 | **Clawpilot** | Internal agent platform — ask in #clawpilot for tips |
-| <img src="https://img.icons8.com/color/32/github.png" width="28"/> | **GitHub Copilot / Agent mode** | Build code, glue, scripts — let it drive |
-| <img src="https://img.icons8.com/color/32/microsoft.png" width="28"/> | **Microsoft Graph API** | The pipe to mail, calendar, files, Teams, people |
+| 🐙 | **GitHub Copilot / Agent mode** | Build code, glue, scripts — let it drive |
+| 🌐 | **Microsoft Graph API** | The pipe to mail, calendar, files, Teams, people |
 
 > 🔎 **Don't know the right tool?** Send the Tool-scout to another squad. Cross-pollination is encouraged.
 
@@ -206,15 +206,15 @@ Fill this in while you build. Storyteller presents it.
 
 ## 🏆 Judging & prizes
 
-Fully unserious. Multiple winners. Everyone claps.
+None. Fully unserious. Everybody wins. Everyone claps.
 
-| Category | What we're looking for |
+| Category | What's your price? |
 |----------|------------------------|
 | 🧠 **Most useful** | "I want this on Monday morning" |
-| 🎨 **Most creative** | Made us go *"wait, you can do that?"* |
+| 🎨 **Most creative** | This made us go *"wait, you can do that?"* |
 | 💥 **Best fail story** | Honest, funny, and the rest of us learn from it |
 | 🤝 **Best teamwork** | Pulled in other squads, shared, cross-pollinated |
-| 🚀 **Ship-it candidate** | Most likely to become a real thing next sprint |
+| 🚀 **Ship-it candidate** | Most likely to become a real thing |
 
 ---
 
@@ -223,27 +223,16 @@ Fully unserious. Multiple winners. Everyone claps.
 <details>
 <summary>Open the checklist (for the organizer — that's me 👋)</summary>
 
-**Before the day**
-- [ ] Room booked with enough table clusters for ~10 squads
-- [ ] Power, Wi-Fi, Teams room tested
-- [ ] Whiteboards / flipcharts / sticky notes per table
-- [ ] Shared OneNote or Loop page for squads to drop their notes + links
-- [ ] Sample data / dummy mailbox available (no production data!)
-- [ ] Snacks & caffeine ☕🍫
-- [ ] Showcase order randomized
-- [ ] Prizes / silly trophies
-
 **On the day**
 - [ ] 5-min kickoff slide ready (agenda + rules)
 - [ ] Visible countdown timer
+- [ ] Setup Breakout Rooms
 - [ ] Walk between squads during build phase — unblock, connect, encourage tool-scouting
-- [ ] Capture photos for the recap
 - [ ] Collect every squad's showcase template into one Loop / OneNote page
 
 **After**
 - [ ] Share the recap (photos + squad summaries + "where stuck" list)
-- [ ] Open a follow-up channel for the ideas that sparked
-- [ ] Ping owners of "ship-it candidate" ideas with next steps
+- [ ] Keep teh Meeting Channel as a follow-up channel for the ideas that sparked
 
 </details>
 
