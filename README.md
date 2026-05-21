@@ -21,6 +21,10 @@
 
 We split into **squads of 4–5 people**, spend **15–20 minutes** picking a real problem we hate doing manually, then **build for 60 minutes** using Microsoft AI tooling — Copilot, Copilot Studio, Power Automate, Azure AI Foundry, Frontier functions, Clawpilot / GitHub Copilot, anything goes. At the end every squad shares a **2-minute story**: what we tried, what worked, where we got stuck. Working code is *not* required. Honest stories are.
 
+> 👔 **Managers, this one's for you too.** The three team managers form their own squad and play along — same rules, same showcase.
+>
+> 🛟 **Every squad is a safe space.** No need to flex your favorite agent or pretend you've shipped this before. We're here to **learn from each other** — questions, dead ends and "I have no idea what this button does" are all welcome.
+
 ---
 
 ## 🎯 Why we're doing this
