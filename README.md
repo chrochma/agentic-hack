@@ -152,7 +152,7 @@ Stuck on what to build? Steal one of these. Combine them. Make them weirder.
 
 <img src="assets/toolbox.svg" alt="" width="80" align="left" style="margin-right:12px"/>
 
-You don't need to know all of these. Pick **one or two** and go deep. Pull in a colleague who knows the others.
+You don't need to know all of these. Pick **one or two** and go deep. If you don't know any, pull in a colleague who knows the or use AI to learn about them 🧠.
 
 | | Tool | Good for |
 |---|------|----------|
